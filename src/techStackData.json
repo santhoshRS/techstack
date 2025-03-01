@@ -1,0 +1,134 @@
+[
+    {
+        "Name": ".NET",
+        "Description": "A free, cross-platform, open source developer platform for building many different types of applications",
+        "IconName": "devicon-dot-net-plain-wordmark colored",
+        "WebsiteURL": "http://www.microsoft.com/net/"
+    },
+    {
+        "Name": "C#",
+        "Description": "Simple, general-purpose, object-oriented programming language for the .NET platform",
+        "IconName": "devicon-csharp-plain colored",
+        "WebsiteURL": "https://dotnet.microsoft.com/en-us/languages/csharp"
+    },
+    {
+        "Name": ".NET Core",
+        "Description": "An Open Source, General-Purpose Development Platform Maintained by Microsoft and the .NET Community",
+        "IconName": "devicon-dotnetcore-plain colored",
+        "WebsiteURL": "https://dotnet.microsoft.com/en-us/apps/aspnet"
+    },
+    {
+        "Name": "Azure",
+        "Description": "Microsoft Azure is a cloud computing platform and service provided by Microsoft.",
+        "IconName": "devicon-azure-plain colored",
+        "WebsiteURL": "https://azure.microsoft.com/en-us/"
+    },
+    {
+        "Name": "Azure DevOps",
+        "Description": "Azure DevOps is a tool in the Integrated Development Environment Tools category of a tech stack.",
+        "IconName": "devicon-azuredevops-plain colored",
+        "WebsiteURL": "https://azure.microsoft.com/en-us/products/devops/"
+    },
+    {
+        "Name": "React",
+        "Description": "A JavaScript library for building user interfaces.",
+        "IconName": "devicon-react-original colored",
+        "WebsiteURL": "https://react.dev/"
+    },
+    {
+        "Name": "Typescript",
+        "Description": "A superset of JavaScript that compiles to clean JavaScript output.",
+        "IconName": "devicon-typescript-plain colored",
+        "WebsiteURL": "https://www.typescriptlang.org/"
+    },
+    {
+        "Name": "Node JS",
+        "Description": "A platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications.",
+        "IconName": "devicon-nodejs-plain colored",
+        "WebsiteURL": "https://nodejs.org/en"
+    },
+    {
+        "Name": "jQuery",
+        "Description": "jQuery is a cross-platform JavaScript library designed to simplify the client-side scripting of HTML.",
+        "IconName": "devicon-jquery-plain colored",
+        "WebsiteURL": "https://jquery.com/"
+    },
+    {
+        "Name": "Javascript",
+        "Description": "JavaScript (JS) is a lightweight interpreted programming language with first-class functions.",
+        "IconName": "devicon-javascript-plain colored",
+        "WebsiteURL": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    },
+    {
+        "Name": "Angular",
+        "Description": "A platform for building mobile and desktop web applications.",
+        "IconName": "devicon-angularjs-plain colored",
+        "WebsiteURL": "https://angular.dev/"
+    },
+    {
+        "Name": "Microsoft SQL Server",
+        "Description": "A relational database management system developed by Microsoft.",
+        "IconName": "devicon-microsoftsqlserver-plain colored",
+        "WebsiteURL": "http://microsoft.com/sqlserver"
+    },
+    {
+        "Name": "Material UI",
+        "Description": "Material UI is a library of React UI components that implements Google's Material Design.",
+        "IconName": "devicon-materialui-plain colored",
+        "WebsiteURL": "https://mui.com/"
+    },
+    {
+        "Name": "Tailwind CSS",
+        "Description": "A utility-first CSS framework for rapid UI development.",
+        "IconName": "devicon-tailwindcss-original colored",
+        "WebsiteURL": "https://tailwindcss.com/"
+    },
+    {
+        "Name": "Bootstrap",
+        "Description": "Simple and flexible HTML, CSS, and JS for popular UI components and interactions.",
+        "IconName": "devicon-bootstrap-plain colored",
+        "WebsiteURL": "https://getbootstrap.com/"
+    },
+    {
+        "Name": "HTML5",
+        "Description": "HTML5 is a core technology markup language of the Internet used for structuring and presenting content for the World Wide Web.",
+        "IconName": "devicon-html5-plain colored",
+        "WebsiteURL": "https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
+    },
+    {
+        "Name": "CSS 3",
+        "Description": "The latest evolution of the Cascading Style Sheets language.",
+        "IconName": "devicon-css3-plain colored",
+        "WebsiteURL": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+    },
+    {
+        "Name": "Swagger UI",
+        "Description": "A Collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation.",
+        "IconName": "devicon-swagger-plain colored",
+        "WebsiteURL": "https://swagger.io/tools/swagger-ui/"
+    },
+    {
+        "Name": "Postman",
+        "Description": "Only complete API development environment.",
+        "IconName": "devicon-postman-plain colored",
+        "WebsiteURL": "https://www.postman.com/"
+    },
+    {
+        "Name": "Webpack",
+        "Description": "A bundler for javascript and friends.",
+        "IconName": "devicon-webpack-plain colored",
+        "WebsiteURL": "https://webpack.js.org/"
+    },
+    {
+        "Name": "npm",
+        "Description": "The package manager for JavaScript.",
+        "IconName": "devicon-npm-original-wordmark colored",
+        "WebsiteURL": "https://www.npmjs.com/"
+    },
+    {
+        "Name": "git",
+        "Description": "Fast, scalable, distributed revision control system.",
+        "IconName": "devicon-git-plain colored",
+        "WebsiteURL": "https://git-scm.com/"
+    }
+]
